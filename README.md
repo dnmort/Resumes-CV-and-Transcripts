@@ -10,6 +10,8 @@ This repository contains my college and university transcripts, as well as my CV
 email: dnmort@gmail.com
 
 ## Education
+- Data Science Diploma: BrainStation, 2021
+- Certificates in C++, HTML, CSS, JavaScript, React: Codecademy, 2020
 - Postdoctoral: Brigham Young University, 2016—2017 
 - Ph.D.: Chemistry, University of California, Berkeley, 2011—2016
 - B.S.: Chemistry, Brigham Young University, 2008—2011
