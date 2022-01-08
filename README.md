@@ -1,5 +1,5 @@
 ## Resumes-CV-and-Transcripts
-This repository contains my college and university transcripts, as well as my CV and resums for chemistry and data science.
+This repository contains my college and university transcripts, as well as my CV and resumes for data science and chemistry.
 
 # **Dr. Daniel Mortensen, PhD**
 **ASPIRING DATA SCIENTIST**
